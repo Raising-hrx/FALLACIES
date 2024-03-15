@@ -1,4 +1,4 @@
-# Introduction
+# FALLACIES
 
 This is the data for [A Closer Look at the Self-Verification Abilities of Large Language Models in Logical Reasoning](https://arxiv.org/abs/2311.07954)
 
